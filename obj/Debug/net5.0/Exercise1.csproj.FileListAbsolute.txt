@@ -1,0 +1,15 @@
+/Users/joyambrose/Documents/UNI/Intro Prog/Projects/Submission_NestedRepetition/Exercise1/bin/Debug/net5.0/Exercise1.deps.json
+/Users/joyambrose/Documents/UNI/Intro Prog/Projects/Submission_NestedRepetition/Exercise1/bin/Debug/net5.0/Exercise1.runtimeconfig.json
+/Users/joyambrose/Documents/UNI/Intro Prog/Projects/Submission_NestedRepetition/Exercise1/bin/Debug/net5.0/Exercise1.runtimeconfig.dev.json
+/Users/joyambrose/Documents/UNI/Intro Prog/Projects/Submission_NestedRepetition/Exercise1/bin/Debug/net5.0/Exercise1.dll
+/Users/joyambrose/Documents/UNI/Intro Prog/Projects/Submission_NestedRepetition/Exercise1/bin/Debug/net5.0/ref/Exercise1.dll
+/Users/joyambrose/Documents/UNI/Intro Prog/Projects/Submission_NestedRepetition/Exercise1/bin/Debug/net5.0/Exercise1.pdb
+/Users/joyambrose/Documents/UNI/Intro Prog/Projects/Submission_NestedRepetition/Exercise1/obj/Debug/net5.0/Exercise1.csprojAssemblyReference.cache
+/Users/joyambrose/Documents/UNI/Intro Prog/Projects/Submission_NestedRepetition/Exercise1/obj/Debug/net5.0/Exercise1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joyambrose/Documents/UNI/Intro Prog/Projects/Submission_NestedRepetition/Exercise1/obj/Debug/net5.0/Exercise1.AssemblyInfoInputs.cache
+/Users/joyambrose/Documents/UNI/Intro Prog/Projects/Submission_NestedRepetition/Exercise1/obj/Debug/net5.0/Exercise1.AssemblyInfo.cs
+/Users/joyambrose/Documents/UNI/Intro Prog/Projects/Submission_NestedRepetition/Exercise1/obj/Debug/net5.0/Exercise1.csproj.CoreCompileInputs.cache
+/Users/joyambrose/Documents/UNI/Intro Prog/Projects/Submission_NestedRepetition/Exercise1/obj/Debug/net5.0/Exercise1.dll
+/Users/joyambrose/Documents/UNI/Intro Prog/Projects/Submission_NestedRepetition/Exercise1/obj/Debug/net5.0/ref/Exercise1.dll
+/Users/joyambrose/Documents/UNI/Intro Prog/Projects/Submission_NestedRepetition/Exercise1/obj/Debug/net5.0/Exercise1.pdb
+/Users/joyambrose/Documents/UNI/Intro Prog/Projects/Submission_NestedRepetition/Exercise1/obj/Debug/net5.0/Exercise1.genruntimeconfig.cache
